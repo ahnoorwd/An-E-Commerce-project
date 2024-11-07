@@ -19,4 +19,4 @@ The Gadget Store E-Commerce Website is a digital platform designed for browsing 
 ## Live site Link
 https://nurvai232b10a8.netlify.app/
 ## Private Repository Link
-https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-ahnoorwd
+
